@@ -1,0 +1,193 @@
+body {
+  background-color: #303030;
+  color: #fff;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+#container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rectangle {
+  width: 960px;
+  margin: 20px;
+  text-align: center;
+}
+
+.square {
+  width: 50%;
+  float: left;
+}
+
+#logo {
+  float: left;
+  font-size: 70px;
+  width: 600px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#watch {
+  float: left;
+  font-size: 70px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.title1 {
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #3095d3;
+  float: left;
+  text-align: center;
+}
+.title1:hover {
+  background-color: #2084c2;
+}
+
+.title2 {
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #666;
+  float: left;
+  text-align: center;
+}
+.title2:hover {
+  background-color: #555;
+}
+
+.title3 {
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #93c748;
+  float: left;
+  text-align: center;
+}
+.title3:hover {
+  background-color: #82b637;
+}
+
+.title4 {
+  margin: 10px;
+  width: 420px;
+  height: 82px;
+  background-color: #ee5232;
+  text-align: center;
+  font-size: 25px;
+  padding: 30px;
+  line-height: 110%%;
+}
+
+.title5 {
+  margin: 10px;
+  width: 420px;
+  height: 245px;
+  background-color: #666;
+  text-align: justify;
+  padding: 30px;
+}
+
+.FB {
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #4668b3;
+  float: left;
+}
+.FB:hover {
+  background-color: #3557a2;
+}
+
+.Twitter {
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #3095d3;
+  float: left;
+}
+.Twitter:hover {
+  background-color: #2084c2;
+}
+.YT {
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #d94348;
+  float: left;
+}
+.YT:hover {
+  background-color: #c83237;
+}
+.Insta {
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #3f729b;
+  float: left;
+}
+.Insta:hover {
+  background-color: #2e618a;
+}
+.fa-square-facebook {
+  font-size: 76px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.fa-square-instagram {
+  font-size: 76px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.fa-youtube {
+  font-size: 76px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.fa-square-twitter {
+  font-size: 76px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.fa-user {
+  font-size: 76px;
+  margin-top: 30px;
+}
+
+.fa-address-book {
+  font-size: 76px;
+  margin-top: 30px;
+}
+
+.fa-laptop {
+  font-size: 76px;
+  margin-top: 30px;
+}
+.fa-file {
+  font-size: 76px;
+  margin-top: 30px;
+}
+
+a.tilelink {
+  color: white;
+  text-decoration: none;
+  display: block;
+  width: 230px;
+  height: 142px;
+}
+
+a.alexlink {
+  color: white;
+  text-decoration: none;
+}
